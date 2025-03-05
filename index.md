@@ -1,11 +1,10 @@
----
-title: Steve's GitHub pages
----
+# Steve's GitHub pages
 
-#About
 
-This is a space to tinker with GitHub
+## About
 
-#Notes
+- This is a space to tinker with GitHub
 
-This is an example of a note
+## Notes
+
+- This is an example of a note
